@@ -1,0 +1,9 @@
+BACKEND_PORT="8081"
+FRONTEND_PORT="8080"
+
+DB_PORT="5432"
+DB_USER="root"
+DB_PASSWORD="very_secret_password"
+DB_NAME="eth_wallet"
+
+VOLUME_PATH="./data"
